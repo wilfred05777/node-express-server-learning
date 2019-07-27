@@ -1,0 +1,1 @@
+console.log('Hello there im the my other files js');
